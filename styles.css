@@ -1,0 +1,50 @@
+/* add your CSS here */
+.card{
+	font-family: sans-serif;
+	font-size: 80%;
+	border: 2px solid #D7D7D7;
+	padding: 10px;
+	width: 23.5em;
+	box-shadow: 1px 3px 1px #B5B5B5;
+}
+
+.card-info{
+	border: 2px solid #D7D7D7;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: left;
+}
+
+img{
+	border: 1px solid #D7D7D7;
+	width: 300px;
+	margin-bottom: 5px;
+}
+
+p{
+	font-style: normal;
+}
+
+p:first-of-type{
+	font-style: italic;
+}
+
+ul, li {
+    margin: 0; 
+    padding: 0;
+    list-style: none;
+    font-style: italic;
+
+}
+
+span{
+	font-weight: bold;
+	font-style: normal;
+}
+
+h1{
+	font-weight:heavy;
+	margin-top: 1px;
+	margin-bottom: 5px;
+}
+
